@@ -1,10 +1,10 @@
 👋 Hi, I’m Matt
 
-👀 I’m interested in FPV drones, UFOs, coding
+👀 I’m interested in UFOs, Coding, Data, Psychology, and Writing
 
-🌱 Upskilling data analysis with Data Camp
+🌱 Thinking about coding a game
 
-💞️ Interested in working on social science type projects
+💞️ Interested in a bunch of things
 
 📫 Reach me at 
 - matt@mattjcamp.com
