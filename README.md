@@ -1,10 +1,10 @@
 👋 Hi, I’m Matt
 
-👀 I’m interested in UFOs, Coding, Data, Psychology, and Writing
+👀 I’m interested in UFOs, Coding, Data, and Writing
 
-🌱 Working on reblogging my site *How to Make iPhone Apps* that I started in 2009
+🌱 Working on rebooting my site *How to Make iPhone Apps* that I started in 2009
 
-💞️ Interested in a bunch of things
+💞️ Interested in a bunch of other things like: sourdough bread baking, cooking, FPV drones, and taking long hikes in the woods where I solve the world's problems
 
 📫 Reach me at 
 - matt@mattjcamp.com
