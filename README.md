@@ -2,7 +2,7 @@
 
 👀 I’m interested in UFOs, Coding, Data, Psychology, and Writing
 
-🌱 Working of reblogging my site *How to Make iPhone Apps*
+🌱 Working on reblogging my site *How to Make iPhone Apps* that I started in 2009
 
 💞️ Interested in a bunch of things
 
