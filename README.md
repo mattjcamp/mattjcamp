@@ -2,7 +2,7 @@
 
 👀 I’m interested in UFOs, Coding, Data, Psychology, and Writing
 
-🌱 Thinking about coding a game
+🌱 Working of reblogging my site *How to Make iPhone Apps*
 
 💞️ Interested in a bunch of things
 
