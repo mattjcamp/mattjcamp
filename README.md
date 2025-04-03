@@ -6,8 +6,9 @@
 
 💞️ Interested in a bunch of other things like: sourdough bread baking, cooking, FPV drones
 
-📫 Social 
+📫 Socials
 - [Bluesky @mattjcamp](https://bsky.app/profile/mattjcamp.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/mattjcamp/)
 - [mattjcamp.com](https://mattjcamp.com)
 
 <!---
