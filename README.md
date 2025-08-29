@@ -1,15 +1,15 @@
 👋 Hi, I’m Matt
 
-👀 I’m interested in UFOs, Coding, Consciousness, and Writing
+👀 Technical Data Analyst
 
-🌱 Just rebooted my old website *How to Make iPhone Apps* that I started in 2009
+🌱 Writer
 
-💞️ Interested in a bunch of other things like: sourdough bread baking, cooking, FPV drones
+💞️ UFOlogist
 
 📫 Socials
-- [Bluesky @mattjcamp](https://bsky.app/profile/mattjcamp.bsky.social)
-- [LinkedIn](https://www.linkedin.com/in/mattjcamp/)
 - [mattjcamp.com](https://mattjcamp.com)
+- [Twitter]([https://bsky.app/profile/mattjcamp.bsky.social](https://x.com/Matthew23485953))
+- [LinkedIn](https://www.linkedin.com/in/mattjcamp/)
 
 <!---
 mattjcamp/mattjcamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
