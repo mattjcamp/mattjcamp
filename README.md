@@ -6,9 +6,8 @@
 
 💞️ UFOlogist
 
-📫 Socials
+📫 Web
 - [mattjcamp.com](https://mattjcamp.com)
-- [Twitter]([https://bsky.app/profile/mattjcamp.bsky.social](https://x.com/Matthew23485953))
 - [LinkedIn](https://www.linkedin.com/in/mattjcamp/)
 
 <!---
