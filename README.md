@@ -6,9 +6,10 @@
 
 💞️ UFOlogist
 
-📫 Web
-- [mattjcamp.com](https://mattjcamp.com)
-- [LinkedIn](https://www.linkedin.com/in/mattjcamp/)
+📫 R/SQL/Web
+
+[mattjcamp.com](https://mattjcamp.com)
+[LinkedIn](https://www.linkedin.com/in/mattjcamp/)
 
 <!---
 mattjcamp/mattjcamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
